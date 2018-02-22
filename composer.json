@@ -1,0 +1,17 @@
+{
+    "name": "rajkumar/calculator",
+    "description": "Calculator creators",
+    "authors": [
+        {
+            "name": "Raj Kumar",
+            "email": "rajwebsoft@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+    "psr-4": {
+      "Rajkumar\\Calculator\\": "src"
+    }
+  }
+}
